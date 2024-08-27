@@ -34,4 +34,6 @@ const t = [1, 2, 3, 4];
 const o = {
     1: t,
     3: a
-}
+};
+
+const re = [o, z, t];
