@@ -15,3 +15,14 @@ const r = {
 }
 
 const x = 1 + 1;
+const e = {
+    r,
+    d,
+    c,
+    a,
+    b
+}
+
+const p = {...e, ...r};
+
+console.log(p)
