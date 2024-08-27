@@ -7,3 +7,9 @@ const d = {
     a,
     b
 }
+
+
+const r = {
+    a,
+    b
+}
