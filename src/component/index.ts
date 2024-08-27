@@ -12,13 +12,6 @@ const d = {
 const r = {
     a,
     b
-};
-
-
-const e = {
-    r,
-    d,
-    c,
-    a,
-    b
 }
+
+const x = 1 + 1;
