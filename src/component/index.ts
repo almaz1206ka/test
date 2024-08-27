@@ -36,4 +36,12 @@ const o = {
     3: a
 };
 
+const pl = {
+    o,
+    t,
+    z
+};
+
+console.log(pl);
+
 const re = [o, z, t];
