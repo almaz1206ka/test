@@ -28,3 +28,10 @@ const p = {...e, ...r};
 console.log(p)
 
 const z = 3;
+
+const t = [1, 2, 3, 4];
+
+const o = {
+    1: t,
+    3: a
+}
