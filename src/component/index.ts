@@ -44,4 +44,7 @@ const pl = {
 
 console.log(pl);
 
+
+const arrr = [111, 222, 333]
+
 const re = [o, z, t];
