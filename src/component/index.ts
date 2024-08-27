@@ -26,3 +26,5 @@ const e = {
 const p = {...e, ...r};
 
 console.log(p)
+
+const z = 3;
