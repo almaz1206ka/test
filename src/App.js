@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import { Layout } from './component/Layout';
+import { Profile } from './component/Profile';
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
           Learn React
         </a>
       </header>
+      <Layout />
+      <Profile />
     </div>
   );
 }
