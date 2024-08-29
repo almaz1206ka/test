@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { Main } from './component/res/main';
 import { Layout } from './component/Layout';
 import { Profile } from './component/Profile';
 
@@ -21,6 +22,7 @@ function App() {
         </a>
       </header>
       <Layout />
+      <Main />
       <Profile />
     </div>
   );
